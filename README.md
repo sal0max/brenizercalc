@@ -1,5 +1,7 @@
 # Brenizer Calculator
 
+### [Try it out](https://sal0max.github.io/brenizercalc/) 🤓
+
 A web app that allows to calculate the _virtual_ lens that was used in theory when a [Brenizer Method](https://en.wikipedia.org/wiki/Brenizer_Method) (aka Bokehrama) photo was created. It basically tells which focal length and/or aperture would have been necessary to achieve the same image in a single shot.  
 
 * Every camera format is supported - the results will be relevant to that format (no conversion to 35mm equivalent is done).
