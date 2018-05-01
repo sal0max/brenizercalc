@@ -6,7 +6,7 @@ A web app that allows to calculate the _virtual_ lens that was used in theory wh
 
 * Every camera format is supported - the results will be relevant to that format (no conversion to 35mm equivalent is done).
 * Responsive design infused with Bootstrap 4.1
-* Based on <http://brettmaxwellphoto.com/Brenizer-Method-Calculation/> and <http://thiemo.github.io/brenizercalc>
+* Based on <http://brettmaxwellphoto.com/Brenizer-Method-Calculation/> and <http://thiemo.github.io/brenizercalc/>
 
 ## License
 
